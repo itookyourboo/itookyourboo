@@ -1,1 +1,1 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/wignorbo?ext=contest)](https://leetcode.com/wignorbo)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/wignorbo)](https://leetcode.com/wignorbo)
